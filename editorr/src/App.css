@@ -1,0 +1,42 @@
+
+.container {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.row {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.editor{
+  position: relative;
+  height: 100%;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.show {
+  position: relative;
+  height: 100%;
+  width: 50%;
+  justify-content: center;
+  padding: 10px;
+}
+
+.show {
+  border-left: 1px solid #000  ;
+}
+
+
+
+.editor-value {
+  height: 100%;
+  width: 100%;
+}
